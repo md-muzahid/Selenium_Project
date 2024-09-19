@@ -73,4 +73,3 @@ selenium-web-automation/
 └── README.md
 ```
 
-Feel free to customize this README.md file according to your project's specific requirements and structure.
